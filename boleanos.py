@@ -19,6 +19,6 @@ while intentos <= 4:
         print(5-intentos)
     if intentos == 4:
         print("Login anulado")
-        break
         
+
 
