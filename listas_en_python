@@ -1,0 +1,10 @@
+# Hacer una lista de numeros del 1 al 20
+lista = []
+i = 0
+
+
+#append() es un metodo que nos permite añadir un valor al ultimo indice de la lista
+for i in range(20):
+    lista.append(i+1)
+
+print(lista)
